@@ -47,5 +47,5 @@ The application uses the [JSONPlaceholder](https://www.jsonplaceholder.org/) API
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MoSalem149v2/profile-scout_DEBI-Task.git
+   git clone https://github.com/MoSalem149/profile-scout_DEBI-Task.git
    cd profile-scout_DEBI-Task
